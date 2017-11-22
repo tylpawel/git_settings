@@ -1,0 +1,6 @@
+### Add user ###
+git config --global --user.name "Pawel Tyl"
+git config --global --user.email "pawel.tyl@wp.pl"
+
+## Add alases ###
+git config --global alias.llog "log --oneline --all --graph --decorate"
