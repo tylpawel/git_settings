@@ -4,5 +4,5 @@ git config --global --user.email "pawel.tyl@wp.pl"
 
 ### Add aliases ###
 git config --global alias.llog "log --oneline --graph --decotare --all"
-
-
+git config --global alias.co "commit -m"
+git config --global alias.st "status"
